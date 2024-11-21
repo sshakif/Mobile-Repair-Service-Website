@@ -23,7 +23,7 @@
               </p>
             </div>
             <div class="hero-button">
-              <a href="contact.html"
+              <a href="contact.php"
                 >Lets Talk<i class="bi bi-arrow-right"></i
               ></a>
             </div>
@@ -58,7 +58,7 @@
               <div class="feature-icon">
                 <img
                   src="assets/images/Brand logo & Icon/SVG/repairs.svg"
-                  style="width: 60px"
+                  style="width: 60px;position: relative;top:10px"
                   alt=""
                 />
               </div>
@@ -107,7 +107,7 @@
                 <img
                   src="assets/images/Brand logo & Icon/SVG/Accessories.svg"
                   alt=""
-                  style="width: 60px"
+                  style="width: 60px;position: relative;top:10px"
                 />
               </div>
               <div class="feature-content">
@@ -163,7 +163,7 @@
                 <img
                   src="assets/images/Brand logo & Icon/SVG/device upgrade.svg"
                   alt=""
-                  style="width: 60px"
+                 style="width: 60px;position: relative;top:10px"
                 />
               </div>
               <div class="feature-content">

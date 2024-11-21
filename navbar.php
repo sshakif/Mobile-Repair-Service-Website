@@ -114,7 +114,7 @@
   <!--==================================================-->
     <!-- Start NPRA Website  Top Header Area Style One-->
     <!--==================================================-->
-    <div class="top-header-area">
+    <!-- <div class="top-header-area">
       <div class="container">
         <div class="row align-items-center">
           <div class="col-lg-6">
@@ -137,7 +137,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <!--==================================================-->
     <!-- End NPRA Website Top Header Area Style One-->
     <!--==================================================-->

@@ -5,7 +5,7 @@ session_start();
     <div class="contact-area style-three inner">
       <div class="container">
         <div class="row add-white-bg align-items-center">
-          <div class="col-lg-8 col-md-12">
+          <div class="col-md-7">
             <div class="single-contact-box">
               <div class="contact-contetn">
                 <h4>CONTACT US</h4>
@@ -83,14 +83,14 @@ session_start();
                   </div>
                   <div class="col-lg-12">
                     <div class="massage-sent-button">
-                      <button type="submit">Send Massage</button>
+                      <button type="submit">Send Message</button>
                     </div>
                   </div>
                 </div>
               </form>
             </div>
           </div>
-          <div class="col-lg-4 col-md-12">
+          <div class="col-md-5">
             <div class="single-contact-info-box">
               <div class="info-content">
                 <h4>Don’t Forget to Contact Us</h4>
@@ -110,7 +110,7 @@ session_start();
                 </div>
                 <div class="contact-info-content">
                   <p>Send E-Mail</p>
-                  <h4>NPRA.feedback@gmail.com </h4>
+                  <h4>marketown@newyphonerepairs.com.au </h4>
                 </div>
               </div>
               <div class="contact-info-box">
@@ -118,7 +118,7 @@ session_start();
                   <i class="bi bi-alarm"></i>
                 </div>
                 <div class="contact-info-content time-frame">
-                  <p>Office Hours</p>
+                  <p> Trading Hours</p>
                   <h4> <span>Monday </span> : 9:00am - 5:30 pm</h4>
                   <h4> <span>Tuesday </span> : 9:00am - 5:30pm</h4>
                   <h4> <span>Wednesday </span> : 9:00am - 5:30 pm </h4>
@@ -129,6 +129,28 @@ session_start();
 
                 </div>
               </div>
+
+              <div class="d-flex ms-5">
+              <div class="contact-info-box ms-3">
+                <div class="contact-info-icon">
+                  <a href="https://www.facebook.com/newyphonerepairs" target ="_blank">
+                    <i class="fa-brands fa-facebook-f"></i>
+                  </a>
+                </div>
+              </div>
+              <div class="contact-info-box ms-3">
+                <div class="contact-info-icon">
+                  <a href="https://www.instagram.com/newyphonerepairs/#" target ="_blank">
+                   <i class="fa-brands fa-instagram"></i>
+                  </a>
+
+                </div>
+              </div>
+
+              </div>
+
+
+
             </div>
           </div>
         </div>

@@ -8,8 +8,8 @@ session_start();
     <div class="contact-area style-three inner">
       <div class="container">
         <div class="row">
-          <div class="col-md-8 m-auto add-white-bg align-items-center card p-5">
-            <div class="single-contact-box ">
+          <div class="col-md-8 m-auto add-white-bg align-items-center card p-2">
+            <div class="single-contact-box m-auto p-2">
               <div class="contact-contetn">
                 <h4>Get a quote</h4>
               </div>
@@ -36,7 +36,7 @@ session_start();
 
                 <div class="row">
                   <div class="col-md-10">
-                    <div class="d-flex justify-content-between mb-3">
+                    <div class="quot-select-device-input">
                       <div class="form-check">
                         <input
                           class="form-check-input"
@@ -59,7 +59,7 @@ session_start();
                           class="form-check-input"
                           type="radio"
                           name="flexRadioDefault"
-                          value="Tablet"
+                          value="ipad/Tablet"
                           id="flexRadioDefault1"
                         />
                         <label
@@ -67,7 +67,7 @@ session_start();
                           class="form-check-label"
                           for="flexRadioDefault1"
                         >
-                          Tablet
+                          Ipad/Tablet
                         </label>
                       </div>
                       <div class="form-check">
@@ -75,7 +75,7 @@ session_start();
                           class="form-check-input"
                           type="radio"
                           name="flexRadioDefault"
-                          value="Watch"
+                          value="Apple Watch"
                           id="flexRadioDefault1"
                         />
                         <label
@@ -83,7 +83,7 @@ session_start();
                           class="form-check-label"
                           for="flexRadioDefault1"
                         >
-                          Watch
+                         Apple Watch
                         </label>
                       </div>
                       <div class="form-check">
@@ -91,7 +91,7 @@ session_start();
                           class="form-check-input"
                           type="radio"
                           name="flexRadioDefault"
-                          value="Computer"
+                          value="Laptop/Macbook"
                           id="flexRadioDefault1"
                         />
                         <label
@@ -99,7 +99,7 @@ session_start();
                           class="form-check-label"
                           for="flexRadioDefault1"
                         >
-                          Computer
+                          Laptop/Macbook
                         </label>
                       </div>
                       <div class="form-check">
@@ -107,7 +107,7 @@ session_start();
                           class="form-check-input"
                           type="radio"
                           name="flexRadioDefault"
-                          value="Ipod"
+                          value="Gaming Console"
                           id="flexRadioDefault1"
                         />
                         <label
@@ -115,7 +115,7 @@ session_start();
                           class="form-check-label"
                           for="flexRadioDefault1"
                         >
-                          Ipod
+                        Gaming Console
                         </label>
                       </div>
                     </div>

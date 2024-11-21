@@ -12,6 +12,19 @@
 .header-menu ul {
   display: inline-block;
 }
+.quot-select-device-input {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+@media (max-width: 575px) {
+  .quot-select-device-input {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    flex-direction: column;
+  }
+}
 .whatsApp-message {
   z-index: 9999999;
   position: fixed;
@@ -3873,9 +3886,8 @@
 
 .style-three .contact-info-box {
   display: flex;
-  align-items: center;
   gap: 17px;
-  margin-bottom: 48px;
+  margin-bottom: 25px;
 }
 
 .style-three .contact-info-icon i {
@@ -3897,7 +3909,7 @@
 }
 
 .style-three .contact-info-content h4 {
-  font-size: 20px;
+  font-size: 16px;
   color: #ffffff;
   font-weight: 600;
   margin: 1px 0 0;
