@@ -12,6 +12,17 @@
 .header-menu ul {
   display: inline-block;
 }
+.whatsApp-message {
+  z-index: 9999999;
+  position: fixed;
+  right: 30px;
+  bottom: 35px;
+  bottom: 100px !important;
+}
+.whatsApp-message i {
+  font-size: 45px !important;
+  color: #19ce40;
+}
 
 .header-menu ul li {
   display: inline-block;
@@ -23,7 +34,16 @@
   left: 10px;
   z-index: 999;
 }
-.service-item {
+
+.time-frame h4 span {
+  width: 60px !important;
+}
+.time-frame h4 {
+  font-size: 16px !important;
+  margin-bottom: 10px !important;
+  font-weight: 600;
+  margin-bottom: 0;
+  color: #fff;
 }
 .service-item ul li i {
   color: #71b745;
@@ -1315,7 +1335,7 @@
 =========================================================---*/
 
 .style-one.footer-area {
-  background: url(../images/home-1/footer-bg.jpg);
+  background: url(../images/footer.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1578,7 +1598,7 @@
    <!--NPRA Website hero Area Home Two All Css-->
 =========================================================---*/
 .style-two.hero-area {
-  background: url(../images/home-2/hero-bg.png);
+  background: url(../images/top-banner.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -3837,7 +3857,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  padding: 60px 49px 49px;
+  padding: 25px 25px 25px;
   border-radius: 10px;
 }
 
@@ -6149,7 +6169,7 @@ button.icons {
 =========================================================---*/
 .location-area.inner-style {
   background: #f3f8fd;
-  padding: 225px 0 0px;
+  padding: 20px 0 0px;
 }
 
 .inner-style .single-location-box {
@@ -6755,7 +6775,7 @@ span.flaticon-multiply i {
   text-align: center;
   line-height: 46px;
   font-size: 18px;
-  color: #71b745;
+  color: #85e748;
   left: 0;
   top: 0;
   height: 46px;
@@ -6798,7 +6818,7 @@ span.flaticon-multiply i {
   fill: none;
 }
 .prgoress_indicator svg.progress-circle path {
-  stroke: #71b745;
+  stroke: #8ef250;
   stroke-width: 4;
   box-sizing: border-box;
   transition: all 200ms linear !important;
