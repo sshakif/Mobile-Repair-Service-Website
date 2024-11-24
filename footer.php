@@ -111,7 +111,7 @@
                       <a href="https://www.instagram.com/newyphonerepairs/#" target ="_blank"><i class="fa-brands fa-instagram"></i></a>
                     </li>
                     <li>
-                    <a href="https://api.whatsapp.com/send/?phone=%2B61410300544" target="_blank">
+                    <a href="https://api.whatsapp.com/send/?phone=%2B61411715860" target="_blank">
                         <i class="fa-brands fa-whatsapp"></i>
                     </a>
 
@@ -176,7 +176,7 @@
       </svg>
     </div>
     <div class=" whatsApp-message">
-        <a href="https://api.whatsapp.com/send/?phone=%2B61410300544" target="_blank">
+        <a href="https://api.whatsapp.com/send/?phone=%2B61411715860" target="_blank">
            <i class="fa-brands fa-whatsapp"></i>
         </a>
     </div>

@@ -76,7 +76,7 @@ session_start();
                       <textarea
                         name="massage"
                         id="massage"
-                        placeholder="Write Massage"
+                        placeholder="Write Message"
                         required=""
                       ></textarea>
                     </div>
@@ -101,7 +101,7 @@ session_start();
                 </div>
                 <div class="contact-info-content">
                   <p>Call Us</p>
-                  <h4>+61410300544</h4>
+                  <h4>+61411715860</h4>
                 </div>
               </div>
               <div class="contact-info-box">

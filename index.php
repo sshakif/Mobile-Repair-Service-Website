@@ -19,7 +19,7 @@
               <h1>Fast Fixes,</h1>
               <h1>Great Accessories !!!</h1>
               <p>
-              we provide expert phone repair services and high-quality accessories to keep your devices in top condition. Whether it’s a cracked screen, battery replacement, or protective cases, we’ve got you covered
+                  At Newy Phone Repairs & Accessories, we specialize in quick, reliable phone repairs and offer a wide range of top-quality accessories to keep your device running smoothly and looking stylish. Whether you need a fast fix or the perfect accessory, we’ve got you covered!
               </p>
             </div>
             <div class="hero-button">
