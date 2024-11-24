@@ -2,7 +2,7 @@ a.meanmenu-reveal {
   display: none;
 }
 .mean-container .mean-bar {
-  background: #71b745;
+  background: white;
   float: left;
   min-height: 60px;
   padding: 4px 0 0;
@@ -158,7 +158,7 @@ a.meanmenu-reveal {
   border-radius: 0;
 }
 .mean-container a.meanmenu-reveal span {
-  background: #fff;
+  background: black;
 }
 .mobile-menu-area {
   background: #fff none repeat scroll 0 0;
@@ -174,13 +174,13 @@ a.meanmenu-reveal {
   background: #444;
 }
 .mean-container a.meanmenu-reveal {
-  color: #fff;
+  color: black;
 }
 .meanmenu-reveal.meanclose:hover {
-  color: #fff !important;
+  color: black !important;
 }
 .mean-container a.meanmenu-reveal:hover span {
-  background: #fff;
+  background: black;
 }
 .mean-container .mean-bar::before {
   color: #fff;

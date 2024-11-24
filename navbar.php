@@ -193,7 +193,8 @@
       <div class="mobile-menu">
         <div class="mobile-header-logo">
           <a href="index.php"
-            ><img src="assets/images/logo white.svg" alt="logo"
+            ><img
+                      src="assets/images/logo black green.svg" alt="logo"
           /></a>
         </div>
         <nav class="header-menu">
